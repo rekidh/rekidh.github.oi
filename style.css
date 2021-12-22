@@ -1,0 +1,27 @@
+button{
+    height: 40px;
+    width: 100px;
+    background-color: blueviolet;
+    cursor: pointer;
+    margin: 10% 0 0 45%;
+}
+.a{ background-color: #ddaa;}
+.a1{ background-color:#add;}
+.a2{ background-color:#adda ;}
+.a3{ background-color:#aaff ;}
+.a4{ background-color:#fafa ;}
+.a5{ background-color:#ffaa ;}
+
+.bg{
+    background-color: blueviolet;
+    width: 40px;
+    height: 40px;
+}
+
+li.rb{
+    background-color: blueviolet;
+}
+li.rr{
+    background: #add;
+    display: none;
+}
